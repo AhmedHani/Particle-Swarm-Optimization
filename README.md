@@ -6,11 +6,14 @@ Such as Gradient descent and Backpropagation algorithms, PSO is another algorith
 An explaination post for this project will be put here after finishing it.
 
 References i used to know more about PSO:
+
 1) Bio-Inspired AI book
 2) http://en.wikipedia.org/wiki/Particle_swarm_optimization
 
 References i used during my implementation
+
 1) http://search.cpan.org/~kylesch/AI-PSO-0.86/lib/AI/PSO.pm
 
 References I used to get the best constants for Birds movements
+
 1) http://www.codeproject.com/Articles/42258/Particle-swarm-optimization-for-function-optimizat
