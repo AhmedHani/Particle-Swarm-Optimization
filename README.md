@@ -7,7 +7,7 @@ An explaination post for this project will be put here after finishing it.
 
 References i used to know more about PSO:
 
-1) Bio-Inspired AI book
+1) Bio-Inspired AI book 
 2) http://en.wikipedia.org/wiki/Particle_swarm_optimization
 
 References i used during my implementation
