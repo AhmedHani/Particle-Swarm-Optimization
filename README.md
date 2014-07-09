@@ -3,7 +3,7 @@ Particle-Swarm-Optimization
 This is an implmentation of a natural swarm system to solve a 2-dimensional function using the idea of birds flock, the code could be modified to adabt higher dimensional functions.
 Such as Gradient descent and Backpropagation algorithms, PSO is another algorithm to find global/local minima|maxima of a function using particles (Birds), it simulates the birds' behaviors when they are in Flock, using their velocity and position, they reach to the solution of function.
 
-An explaination post for this project will be put here after finishing it.
+An explaination post for this project will be put here after finishing.
 
 References i used to know more about PSO:
 
